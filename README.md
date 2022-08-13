@@ -2,7 +2,9 @@
 
 I am a biomedical scientist with a master's degree in molecular and cell biology. I am currently a PhD student in Neuroscience at the [Federal University of the State of Rio de Janeiro](http://www.unirio.br/). I have 7 years of experience in research and scientific writing in the field of bioinformatics and computational biology :microscope: :desktop_computer:.
 
-I have experience with Python :snake:, R, and SQL programming languages, as well as experience in machine learning and data analysis libraries, including sklearn, tensorflow, keras, pandas, numpy, and ggplot2. I am passionate about the connection between computing and biology, and I believe that data science and task automation can drive scientific research in biomedical science.
+I have experience with Python :snake:, R, and SQL programming languages, in addition to machine learning and data analysis libraries, including sklearn, tensorflow, keras, pandas, numpy, and ggplot2. 
+
+Here I share some of my data science codes and analyzes, which are shown in my repositories!
 
 
 [![Linkedin: Gabriel Rodrigues](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/gabriel-rodrigues-coutinho-pereira-biomedico)</br>
