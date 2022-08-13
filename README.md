@@ -1,8 +1,8 @@
 ### Hello!
 
-I am a biomedical scientist with a master's degree in molecular and cell biology at [Unirio](http://www.unirio.br/). I am currently a PhD student in Neuroscience at the Federal University of the State of Rio de Janeiro. I have 7 years of experience in research and scientific writing in the field of bioinformatics and computational biology :microscope: :desktop_computer:, which has resulted in awards :trophy:, lectures, conference presentations and publications in high-impact journals. I also had the opportunity to teach Molecular Biology and Computational Biology classes :man_teacher:.
+I am a biomedical scientist with a master's degree in molecular and cell biology. I am currently a PhD student in Neuroscience at the [Federal University of the State of Rio de Janeiro](http://www.unirio.br/). I have 7 years of experience in research and scientific writing in the field of bioinformatics and computational biology :microscope: :desktop_computer:.
 
-In addition, I have knowledge of Python :snake:, R, and SQL programming languages, as well as experience in machine learning and data analysis libraries, including sklearn, tensorflow, keras, pandas, numpy, and ggplot2. I am passionate about the connection between computing and biology, and I believe that data science and task automation can drive scientific research in biomedical science.
+I have experience with Python :snake:, R, and SQL programming languages, as well as experience in machine learning and data analysis libraries, including sklearn, tensorflow, keras, pandas, numpy, and ggplot2. I am passionate about the connection between computing and biology, and I believe that data science and task automation can drive scientific research in biomedical science.
 
 
 [![Linkedin: Gabriel Rodrigues](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/gabriel-rodrigues-coutinho-pereira-biomedico)</br>
