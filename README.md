@@ -1,4 +1,4 @@
-### Hello! :bearded_person: :eyeglasses:
+### Hello!
 
 I am a biomedical scientist with a master's degree in molecular and cell biology at [Unirio](http://www.unirio.br/). I am currently a PhD student in Neuroscience at the Federal University of the State of Rio de Janeiro. I have 7 years of experience in research and scientific writing in the field of bioinformatics and computational biology :microscope: :desktop_computer:, which has resulted in awards :trophy:, lectures, conference presentations and publications in high-impact journals. I also had the opportunity to teach Molecular Biology and Computational Biology classes :man_teacher:.
 
