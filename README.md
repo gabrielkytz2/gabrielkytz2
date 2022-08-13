@@ -4,7 +4,7 @@ I am a biomedical scientist with a master's degree in molecular and cell biology
 
 I have experience with Python :snake:, R, and SQL programming languages, in addition to machine learning and data analysis libraries, including sklearn, tensorflow, keras, pandas, numpy, and ggplot2. 
 
-Here I share some of my data science codes and analyzes, which are shown in my repositories!
+Here I share my data science portfolio with codes and analyzes!
 
 
 [![Linkedin: Gabriel Rodrigues](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/gabriel-rodrigues-coutinho-pereira-biomedico)</br>
