@@ -12,6 +12,8 @@ Here I share some of my data science codes and analyzes, which are shown in my r
 
 #Bioinformatics; #Computer Biology; #SQL; #Python; #Machine Learning; #Data Science
 
+![alt text](https://media-exp1.licdn.com/dms/image/C4D03AQEnkilWFHaNhg/profile-displayphoto-shrink_800_800/0/1568249096032?e=1665619200&v=beta&t=4XpGqXm2XeBDexd3qf1s41JGscvrYYjvks928gxG47Q)
+
 <!--
 **gabrielkytz2/gabrielkytz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
