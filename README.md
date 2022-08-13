@@ -10,7 +10,7 @@ Here I share my data science portfolio with codes and analyzes!
 [![Linkedin: Gabriel Rodrigues](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/gabriel-rodrigues-coutinho-pereira-biomedico)</br>
 
 
-#Bioinformatics; #Computer Biology; #SQL; #Python; #Machine Learning; #Data Science
+#Bioinformatics #Computer Biology #SQL #Python #Machine Learning #Data Science
 
 ![alt text](https://media-exp1.licdn.com/dms/image/C4D03AQEnkilWFHaNhg/profile-displayphoto-shrink_800_800/0/1568249096032?e=1665619200&v=beta&t=4XpGqXm2XeBDexd3qf1s41JGscvrYYjvks928gxG47Q)
 
