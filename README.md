@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a biomedical scientist with a master's degree in molecular and cell biology. I am currently a PhD student in Neuroscience at the [Federal University of the State of Rio de Janeiro](http://www.unirio.br/). I have 7 years of experience in research and scientific writing in the field of bioinformatics and computational biology :microscope: :desktop_computer:.
+I am a biomedical scientist with a master's degree in molecular and cell biology and PHD in Neuroscience. I'm currently post-doctoral fellow in pharmaceutical sciencies at Federal University of Rio de Janeiro (UFRJ). I have 8 years of experience in research and scientific writing in the field of bioinformatics and computational biology :microscope: :desktop_computer:.
 
 I have experience with Python :snake:, R, and SQL programming languages, in addition to machine learning and data analysis libraries, including sklearn, tensorflow, keras, pandas, numpy, and ggplot2. 
 
