@@ -1,6 +1,6 @@
 I am a biomedical scientist with a master's degree in molecular and cell biology and PHD in Neuroscience. I'm currently post-doctoral fellow in pharmaceutical sciencies at Federal University of Rio de Janeiro (UFRJ). I have 8 years of experience in research and scientific writing in the field of bioinformatics and computational biology :microscope: :desktop_computer:.
 
-I have experience with Python :snake:, R, and SQL programming languages, in addition to machine learning and data analysis libraries, including sklearn, tensorflow, keras, pandas, numpy, and ggplot2. 
+I have experience with Python, R, and SQL programming languages, in addition to machine learning and data analysis libraries, including sklearn, tensorflow, keras, pandas, numpy, and ggplot2. 
 
 Here I share my data science portfolio with codes and analyzes!
 
